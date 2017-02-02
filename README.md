@@ -1,5 +1,5 @@
 # testJupiter
-Test jupiter for TP corrections in the future
+Test mybinder for jupyter to test this tool for lab of ML correction in the future.
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/thibaultgroueix/testjupiter)
 
